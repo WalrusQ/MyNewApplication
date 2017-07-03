@@ -1,0 +1,2 @@
+# MyNewApplication
+Змейка на акселерометре
